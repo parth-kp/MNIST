@@ -7,4 +7,4 @@ The Simply Works in Two Parts:
   
 ## NOTE THAT TO CLEAR SCREEN PRESS 'n'
 
-![VIDEO](https://github.com/parth-kp/MNIST/blob/main/video.gif)
+![GIF](https://github.com/parth-kp/MNIST_APP/blob/main/video.gif)
