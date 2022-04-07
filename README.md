@@ -1,6 +1,6 @@
 # MNIST
 
-The Simply Works in Two Parts:
+The Project Simply Works in Two Parts:
 <ol>
   <li> Training the Model, Which is MNIST model, of 60000 HandWritten Digits Dataset.
   <li> After Training Using It to Predict the Number Written on The Screen
